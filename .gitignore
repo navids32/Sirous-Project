@@ -2,3 +2,5 @@
 venv/
 db.sqlite3
 sirousProject/__pycache__/
+items/__pycache__/
+items/migrations/
